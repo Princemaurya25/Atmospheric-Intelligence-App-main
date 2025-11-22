@@ -1,4 +1,3 @@
-# Atmospheric-Intelligence-App-main
 # 🌦️Atmospheric Intelligence App
 
 A sleek and minimalistic **Weather App** built using **Kotlin** and **Retrofit** for Android. It fetches real-time weather data from **OpenWeatherMap API** and displays current temperature, condition, humidity, wind speed, sunrise, sunset, and more with Lottie animations and dynamic backgrounds.
